@@ -1,2 +1,2 @@
 # LocatorHomework
-UX/UI Design for Adobe XD
+UX/UI Design for MOSIS Project
